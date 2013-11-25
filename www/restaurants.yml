@@ -1,0 +1,74 @@
+---
+places:
+- id: 0
+  name: Banana Leaf
+  address: 182 Ranch Dr Milpitas CA 95035
+  party: 4-8
+  minutes: 60
+  website: http://www.bananaleaf-usa.com
+- id: 1
+  name: Chili Garden
+  address: 210 Barber Ct Milpitas CA 95035
+  party: 2-4
+  minutes: 45
+  website: http://www.yelp.com/biz/chili-garden-restaurant-milpitas
+- id: 2
+  name: Dish Dash
+  address: 190 S Murphy Ave Sunnyvale CA 94086
+  party: 6-10
+  minutes: 90
+  website: http://www.dishdash.com
+- id: 3
+  name: Five Guys
+  address: 4180 N First St San Jose CA 95112
+  party: 3-5
+  minutes: 30
+  website: http://www.fiveguys.com
+- id: 4
+  name: Gobi Mongolian BBQ
+  address: 1135 Tasman Dr Sunnyvale CA 94089
+  party: 2-5
+  minutes: 60
+  website: http://www.gobibbq.com
+- id: 5
+  name: Minas Korean BBQ
+  address: 3730 N 1st St San Jose CA 95134
+  party: 2-4
+  minutes: 45
+  website: http://www.yelp.com/biz/minas-korean-bbq-san-jose
+- id: 6
+  name: Pho Kim Long
+  address: 2082 N Capitol Ave San Jose CA 95132
+  party: 4-10
+  minutes: 60
+  website: http://www.yelp.com/biz/pho-kim-long-restaurant-san-jose
+- id: 7
+  name: Sizzling Stone
+  address: 510 Barber Ln Milpitas CA 95035
+  party: 3-6
+  minutes: 45
+  website: http://www.mysizzlingstone.com
+- id: 8
+  name: Smoking Pig
+  address: 1144 N 4th St San Jose CA 95112
+  party: 4-10
+  minutes: 120
+  website: http://www.smokingpigbbq.net
+- id: 9
+  name: Sweet Tomatoes
+  address: 4180 N 1st St San Jose CA 95134
+  party: 2-4
+  minutes: 45
+  website: http://www.souplantation.com
+- id: 10
+  name: Tacos Del Oro
+  address: 5220 N 1st St Alviso CA 95002
+  party: 2-4
+  minutes: 30
+  website: http://eltacodeoro-sj.com
+- id: 11
+  name: Tasty Indian Pizza
+  address: 528 Lawrence Expy Sunnyvale CA 94085
+  party: 2-4
+  minutes: 30
+  website: http://tastyindianpizza.com
